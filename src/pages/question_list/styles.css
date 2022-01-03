@@ -1,0 +1,31 @@
+.card-header {
+    margin-bottom: 10px;
+}
+
+.votes-button-list {
+    --padding-start: 0;
+    --padding-end: 0;
+    font-size: 12px;
+}
+
+.col-votes {
+    padding: 0;
+    margin-top: 0.5em;
+}
+
+.pad-top-7 {
+    --padding-top: 7px;
+}
+
+.col-badge {
+    padding-top: 7px;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-right: 0.3em;
+}
+
+.add-question-button {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}

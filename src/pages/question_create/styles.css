@@ -1,0 +1,16 @@
+.create-labels {
+    font-weight: bold;
+    font-size: 16px!important;
+}
+
+.input-item {
+    margin-top: 1.2em;
+}
+
+.textarea-custom-style {
+    --padding-top: 10px!important;
+}
+
+.question-create-buttons-width {
+    width: 80%;
+}

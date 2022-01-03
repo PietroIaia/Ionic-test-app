@@ -1,0 +1,35 @@
+.votes-button-detail {
+    --padding-start: 0;
+    --padding-end: 0;
+    font-size: 15px;
+}
+
+.pad-label-votes {
+    padding-left: 0.5em;
+}
+
+.no-pad-bottom {
+    padding-bottom: 0;
+}
+
+.question-title {
+    padding-top: 0.5em;
+    font-size: 20px!important;
+    color: #3b4045!important;
+}
+
+.textarea-style {
+    height: auto;
+    border-radius: 6px;
+    box-shadow: none !important;
+    width: 100%;
+    background-color: #eff2f5;
+    padding-left: 9px;
+}
+
+.publish-button-custom-size {
+    --padding-start: 1.1em;
+    --padding-end: 1.1em;
+    height: 2.5em;
+    font-size: 17px;
+}
